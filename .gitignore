@@ -1,4 +1,15 @@
 # Datasets
+png-files
+*-ubyte*
+pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
+pytorch_ipynb/gan/dogs-vs-cats
+pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
+pytorch_ipynb/rnn/yelp_review_polarity_csv/
+pytorch_ipynb/rnn/ag_news_csv/
+pytorch_ipynb/rnn/amazon_review_polarity_csv/
+HistoricalColor-ECCV2012*
+AFAD-Lite
+tarball*
 pytorch_ipynb/rnn/.data/
 pytorch_ipynb/rnn/.vector_cache/
 cifar-10-batches-py
@@ -24,6 +35,7 @@ code/model_zoo/pytorch_ipynb/data
 
 # Binary PyTorch models
 *.pt
+*.state_dict
 
 # Temporary OS files
 .DS_Store
